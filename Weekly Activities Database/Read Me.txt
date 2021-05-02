@@ -1,0 +1,6 @@
+We created this GUI application using maven, hence the mysql connector jar is defined as
+a dependency, it might cause problems. If it does not work, we can provide further assistance.
+
+Here is the communication email.
+
+tugberkgktp@gmail.com
